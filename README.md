@@ -1,2 +1,2 @@
-# Blockchain-With-Javascript-And-ExpressJS
+# blockchain-with-javascript-and-expressjs
 Code out your blockchain with javascript prototype.  Simply, create blockchain using javascript and expressJS
